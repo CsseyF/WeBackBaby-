@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "project_base_obj",
+  "name": "tinySoul_obj",
   "spriteId": {
-    "name": "project_base",
-    "path": "sprites/project_base/project_base.yy",
+    "name": "tinySoul_placeholder",
+    "path": "sprites/tinySoul_placeholder/tinySoul_placeholder.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,13 +25,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"slime_obj","path":"objects/slime_obj/slime_obj.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Projectiles",
-    "path": "folders/Objects/Entities/Player/Projectiles.yy",
+    "name": "HeatSouls",
+    "path": "folders/Objects/Items/HeatSouls.yy",
   },
 }

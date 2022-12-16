@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "project_base_obj",
-  "spriteId": {
-    "name": "project_base",
-    "path": "sprites/project_base/project_base.yy",
-  },
+  "name": "waveHandler_obj",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -26,12 +23,11 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"slime_obj","path":"objects/slime_obj/slime_obj.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Projectiles",
-    "path": "folders/Objects/Entities/Player/Projectiles.yy",
+    "name": "EventObjects",
+    "path": "folders/Objects/EventObjects.yy",
   },
 }

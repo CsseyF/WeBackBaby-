@@ -1,0 +1,1 @@
+ global.inSafeZone = true;
