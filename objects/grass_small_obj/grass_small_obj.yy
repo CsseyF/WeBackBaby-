@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "project_base_obj",
+  "name": "grass_small_obj",
   "spriteId": {
-    "name": "base_bullet",
-    "path": "sprites/base_bullet/base_bullet.yy",
+    "name": "grass_small",
+    "path": "sprites/grass_small/grass_small.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,14 +24,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"slime_obj","path":"objects/slime_obj/slime_obj.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Projectiles",
-    "path": "folders/Objects/Entities/Player/Projectiles.yy",
+    "name": "Green",
+    "path": "folders/Objects/Terrain/Ground/Green.yy",
   },
 }

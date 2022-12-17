@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "slime_obj",
   "spriteId": {
-    "name": "smile_placeholder",
-    "path": "sprites/smile_placeholder/smile_placeholder.yy",
+    "name": "waterSlime_stand",
+    "path": "sprites/waterSlime_stand/waterSlime_stand.yy",
   },
   "solid": false,
   "visible": true,
